@@ -233,3 +233,4 @@ declare namespace Enumerable {
 }
 
 export default Enumerable;
+export { Enumerable };
