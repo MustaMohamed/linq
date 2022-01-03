@@ -3003,4 +3003,4 @@ var Grouping = function (groupKey, elements) {
 };
 Grouping.prototype = new ArrayEnumerable();
 
-export { ...Enumerable, Enumerable };
+export { Enumerable };
